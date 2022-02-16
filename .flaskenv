@@ -1,0 +1,2 @@
+FLASK_APP=blockchain.py
+FLASK_ENV=development
